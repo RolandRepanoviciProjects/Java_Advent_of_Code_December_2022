@@ -18,7 +18,6 @@ public class First_of_December {
                 """;
         for (String s : calories.split("\n")){
             System.out.println(s);
-            System.out.println("test");
         }
     }
 }
